@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-cw95j4.winrategacorcw88.com/sitemap.xml
